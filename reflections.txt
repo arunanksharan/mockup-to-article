@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. What new skills have you learned?
+I have learnt the basics of JavaScript. It has helped me understand the process of web development. I think I now have a strong foundation on which I can build upon to become a Front End Web Developer.
+2. What has been easy?
+Most of the stuff so far has been easy. It is mostly about learning the different elements and tags and then applying them within a given structure. It feels like learning a new language and the experience has been very enjoyable so far.
+3. What has been difficult?
+Nothing has been difficult yet.
+4. How have you used the problem solving strategies from the first project to overcome challenges so far?
+Mozilla Deeveloper Netwrok and online documentations in addition to the Udacity lessons have helped me solve all the problems so far.
